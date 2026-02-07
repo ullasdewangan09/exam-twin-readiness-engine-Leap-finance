@@ -34,6 +34,8 @@ Exam Twin converts preparation signals into a directional readiness score and su
 
 The system is designed as a behavioral nudge engine, not just a tracker.
 
+screenshots/dashboard-overview.png.jpeg
+
 🧠 **Product Thinking**
 
 Instead of asking: “How much have you studied?”
@@ -55,6 +57,8 @@ This reframing shifts the platform from activity monitoring → decision intelli
 - Behavioral recommendations
 
 - Preparation momentum visualization
+
+screenshots/insights-engine.png.jpeg
 
 🛠 **Tech Stack**
 
