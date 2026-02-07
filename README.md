@@ -1,87 +1,125 @@
-# exam-twin-readiness-engine
-Designed and prototyped “Exam Twin,” a behavioral readiness engine that predicts exam preparedness and guides students toward optimal test timing using risk detection, constraint-based scoring, and decision nudges.
-🚀 **Exam Twin — Behavioral Readiness Engine**
+# 🚀 Exam Twin — Behavioral Readiness Engine for Test Prep Students
 
-Exam Twin is a decision-intelligence prototype designed to help test-prep students answer a critical question:
+Designed and prototyped **Exam Twin**, a behavioral readiness engine that predicts exam preparedness and guides students toward optimal test timing using risk detection, constraint-based scoring, and decision nudges.
 
-“If my exam were today — am I ready?”
+---
 
-Unlike traditional preparation platforms that optimize for content consumption, Exam Twin focuses on exam preparedness and decision clarity.
+## 🧠 From Activity Tracking → Decision Intelligence
 
-🎯 **Problem**
+Traditional test-prep platforms optimize for **content consumption**.
 
-- Students preparing for high-stakes exams often struggle with:
+Exam Twin optimizes for **decision clarity.**
 
-- Uncertainty about readiness
+It helps students answer one critical question:
 
-- Poor exam timing decisions
+> **“If my exam were today — am I ready?”**
 
-- Overconfidence or unnecessary delays
+---
 
-- Lack of unified performance insight
+## 🎯 Problem
 
-- This gap can lead to missed university deadlines or suboptimal scores.
+Students preparing for high-stakes exams often struggle with:
 
-💡 **Solution**
+- Uncertainty about readiness  
+- Poor exam timing decisions  
+- Overconfidence or unnecessary delays  
+- Lack of unified performance insight  
 
-Exam Twin converts preparation signals into a directional readiness score and surfaces actionable insights such as:
+This gap can lead to missed university deadlines or suboptimal scores.
 
-✅ Weakest skill constraints
-✅ Risk of missing target band
-✅ Momentum trends
-✅ Confidence levels
-✅ Next-best actions
+---
 
-The system is designed as a behavioral nudge engine, not just a tracker.
+## 💡 Solution
 
-screenshots/dashboard-overview.png.jpeg
+Exam Twin converts fragmented preparation signals into a **directional readiness score** and surfaces actionable insights such as:
 
-🧠 **Product Thinking**
+✅ Weakest skill constraints  
+✅ Risk of missing target band  
+✅ Momentum trends  
+✅ Confidence levels  
+✅ Next-best actions  
 
-Instead of asking: “How much have you studied?”
+The system is designed as a **behavioral nudge engine**, not just a tracker.
 
-Exam Twin asks: “Are you actually ready?”
+---
 
-This reframing shifts the platform from activity monitoring → decision intelligence.
+## 📸 Product Walkthrough
 
-⚙️ **Key Features**
+### 🔹 Readiness Intelligence Dashboard
 
-- Constraint-based band prediction
+<img src="screenshots/dashboard-overview.png.jpeg" width="900"/>
 
-- Readiness scoring
+The dashboard aggregates multiple preparation signals into a single readiness indicator, enabling students to instantly understand their preparedness, projected band, and performance gap.
 
-- Risk detection
+---
 
-- Exam countdown psychology
+### 🔹 Insight & Decision Engine
 
-- Behavioral recommendations
+<img src="screenshots/insights-engine.png.jpeg" width="900"/>
 
-- Preparation momentum visualization
+Exam Twin surfaces high-impact insights such as weakest skill constraints, risk detection, and next-best actions — transforming raw performance metrics into clear preparation decisions.
 
-screenshots/insights-engine.png.jpeg
+---
 
-🛠 **Tech Stack**
+## ⚙️ Key Features
 
-- Streamlit
+- Constraint-based band prediction  
+- Readiness scoring  
+- Risk detection  
+- Exam countdown psychology  
+- Behavioral recommendations  
+- Preparation momentum visualization  
 
-- Plotly
+---
 
-- Python
+## 🧠 Product Thinking
 
-🔮 **If Built at Scale**
+Instead of asking:
+
+> “How much have you studied?”
+
+Exam Twin asks:
+
+> **“Are you actually ready?”**
+
+This reframing shifts the platform from **activity monitoring → decision intelligence**, reducing student uncertainty and enabling smarter exam planning.
+
+---
+
+## 🛠 Tech Stack
+
+- **Streamlit** — Interactive product prototype  
+- **Plotly** — Data visualization  
+- **Python** — Scoring logic and analytics  
+
+---
+
+## ⚖️ Tradeoffs & Design Decisions
+
+A simplified scoring model improves interpretability and user trust but may reduce predictive precision compared to fully ML-driven systems.
+
+The prototype prioritizes **clarity, actionability, and behavioral impact** over algorithmic complexity.
+
+---
+
+## 🔮 If Built at Scale
 
 Future iterations could include:
 
-- ML-driven readiness modeling
+- ML-driven readiness modeling  
+- Personalized study plans  
+- Counselor alerts for at-risk students  
+- Adaptive exam scheduling  
+- AI-powered speaking analysis  
 
-- Personalized study plans
+---
 
-- Counselor alerts
+## 🎥 Product Demo *(Coming Soon)*
 
-- Adaptive exam scheduling
+A short walkthrough demonstrating the readiness engine and decision insights.
 
-- Speaking-analysis AI
+---
 
-👤 Author
+## 👤 Author
 
-Built as a product prototype to explore behavioral design in education platforms.
+Built as a product prototype to explore **behavioral design in education platforms** and demonstrate product thinking, user empathy, and structured problem-solving.
